@@ -7,9 +7,7 @@ class Ejercicio:
         from xml.dom import minidom
         import glob
         import os
-        
-        CAMBIOS = 32
-        
+
         array = []
         # array_idiomas = []
         array_numeros = []
