@@ -9,7 +9,7 @@ class Ejercicio:
         import os
 
         array = []
-        # array_idiomas = []
+        # array_idiomas = []ddddddddddddd
         array_numeros = []
         
         
