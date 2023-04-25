@@ -11,6 +11,14 @@ class Ejercicio:
         array = []
         # array_idiomas = []
         array_numeros = []
+        
+        
+        
+        cambio = []
+
+
+
+        
         # array_palabras = []
         # Bucle infinito
         while True:
