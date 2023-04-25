@@ -8,7 +8,7 @@ class Ejercicio:
         import glob
         import os
 
-        array = []
+        array = []rwerwwwwerwewrwrewrwrwwewrewre
         # array_idiomas = []
         array_numeros = []
         # array_palabras = []
